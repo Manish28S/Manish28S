@@ -2,7 +2,7 @@
 Associate Software Engineer<br>Frontend Web Developer | Ai/ML | Python | D-365 | C/C++ | PL SQL |<br>I'm Currently Learning Agentic Ai with Python<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manish_shahu_28/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manishshahu2808ms/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahumanish2808@gmail.com) 
 
 # 💻 Tech Stack:
